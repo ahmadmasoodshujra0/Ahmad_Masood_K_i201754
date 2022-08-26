@@ -1,0 +1,106 @@
+Intensity,Diagnosis,Type,History,Temp,BP,Age,Name of Medicine
+400mg/60mg,"Pain, menstrual pain and inflammation",Tablet,Depression,101,120/80,16,Arinac Forte
+400mg/60mg,Hepatitis,Tablet,Polluted water,98,120/80,17,Arinax
+150mg,"Pain, Fever and Inflammation",Tablet,Depression,101,120/80,18,Ascard
+500mg,Sugar,Tablet,Diabetes,98,140/90,19,Ascare
+400mg,"bronchitis,bacterial sinusitis",Tablet,Allergy,98,120/80,20,Avelox
+500mg,AIDS,Tablet,Genetic,98,120/80,21,Avleon
+615mg,Bacterial Infections,Tablet,Allergy,98,120/80,22,Calamox
+520mg,Cardiovascular Disease,Tablet,Heart attack,98,120/80,23,Cadamol
+20/10mg,Allergy,Tablet,Allergy,98,120/80,24,Kestine
+20/10mg,Parkinsons,Tablet,Genetic,98,120/80,25,Keptine
+10mg,Pain and inflammation,Tablet,Rash,98,120/80,26,Nise
+10mg,Down Syndrome,Tablet,Genetic,98,120/80,27,Nivu
+200/400/600/800,"Pain, menstrual pain and inflammation",Tablet,Pregnancy,98,120/80,28,Brufen
+200/400/600/800,Migraines,Tablet,Hypertension,98,120/80,29,Brufex
+375/625mg,Bacterial Infections,Tablet,Allergy,98,120/80,30,Augmentin
+375/625mg,Turner Syndrome,Tablet,Genetic,98,120/80,31,Augsentox
+N/A,NUTRIENTS Deficiency,Tablet,Genetic,98,120/80,32,Wellwoman
+N/A,Bone weakness,Tablet,Genetic,98,120/80,33,ChewCal
+1000mg,Bone weakness,Tablet,Genetic,98,120/80,34,CaC Plus
+500m,Fever and pain,Tablet,Typhoid,101,120/80,35,Panadol
+500m,Menangitis,Tablet,Genetic,98,120/80,36,Panadox
+N/A,Fever and pain,Tablet,Typhoid,101,120/80,37,Panadol Extra
+N/A,Menangitis,Tablet,Genetic,98,120/80,38,Panadox Extra
+N/A,Fever and pain,Tablet,Typhoid,101,120/80,39,Panadol Extend
+300/500mg,"Pain, Fever and Inflammation",Tablet,Typhoid,101,120/80,40,Disprin
+300/500mg,Arthritis,Tablet,Genetic,98,120/80,41,Diprine
+200/300/500mg,Fever and pain,Tablet,Diabetes,101,120/80,42,Paracetamol
+200/300/500mg,Diabetes,Tablet,Sugar,98,140/90,43,Paraxematol
+N/A,sleep disturbances.,Tablet,Depression,98,120/80,44,Nutrifactor SleepWell
+10mg,Allergy and Asthma,Tablet,Allergy,98,120/80,45,Montiget
+10mg,Allergy and Asthma,Tablet,Allergy,98,120/80,46,Myteka
+10mg,Marfan's Syndrome,Tablet,Genetic,98,120/80,47,Myzema
+10mg,Allergy and Asthma,Tablet,Allergy,98,120/80,48,Aerokast
+250mg,Malaria,Tablet,Mosquito,98,120/80,49,Resochin
+100mg,Depression,Tablet,Depression,98,120/80,50,Depsit
+N/A,Tuberculosis,Tablet,Genetic,98,120/80,51,Myrin-P Forte
+600mg,Tuberculosis,Tablet,Genetic,98,120/80,52,Lederiff
+300mg,Tuberculosis,Tablet,Genetic,98,120/80,53,Rifinah
+400mg,Tuberculosis,Tablet,Genetic,98,120/80,54,Ranbutol
+200mg,Pain and inflammation,Tablet,Genetic,98,120/80,55,Vobifen
+100mg,Dysuria,Tablet,Depression,98,120/80,56,Uricon
+500mg,Hypertension,Tablet,Polluted water,98,120/80,57,Omsana
+10mg,infestation with threadworms of small intestine,Tablet,Depression,98,120/80,58,Ivermite
+200mg/30mg,"Pain, menstrual pain and inflammation",Tablet,Diabetes,98,120/80,59,Arinac
+200mg/30mg,Respiratory illness,Tablet,Allergy,98,120/80,60,Azinac
+100mg/15mg,Common cold and flu,Syrup,Genetic,101,120/80,1,Acefyl Cough
+5mg,Common cold and flu,Syrup,Allergy,101,120/80,2,Arinac 
+250mg,Pain and fever,Syrup,Heart attack,101,120/80,3,Azomax
+156.25mg,Bacterial Infections,Syrup,Depression,98,120/80,4,Amoxyl Forte
+457mg,Bacterial Infections,Syrup,Polluted water,98,120/80,5,Augmentin
+5mg,Allergy,Syrup,Depression,98,120/80,6,Kestine
+250mg,Bronchitis,Syrup,Diabetes,98,120/80,7,Ezonex
+200mg,Bronchitis,Syrup,Allergy,98,120/80,8,Zetamax
+N/A,Cough,Syrup,Genetic,98,120/80,9,Bronochol
+250mg,Fever and pain,Syrup,Allergy,101,120/80,10,Calpol 6 Plus
+N/A,Cough,Syrup,Allergy,98,120/80,11,Toothsiah
+N/A,bronchospasm,Syrup,Depression,98,120/80,12,Bronchilate
+N/A,Allergy,Syrup,Polluted water,98,120/80,13,Xylor
+500mg/250mg,Digestion issues,Syrup,Depression,98,120/80,14,Digas
+250mg/500mg,"Colon Cancer, Hook and roundworm infections of the intestine.",Syrup,Diabetes,98,120/80,15,Ketress
+250mg/500mg,Cough,Syrup,Allergy,98,120/80,16,Coldrex
+2mg,bronchospasm,Syrup,Genetic,98,120/80,17,Bronchilate
+250mg,Multivitamins deficiency,Syrup,Allergy,98,120/80,18,Regnum Honey
+N/A,Flu,Syrup,Allergy,101,120/80,19,FluAce
+100mg,Blood circulation in brain,Syrup,Depression,98,120/80,20,Cogniza
+100mg,antibiotic,Capsule,Polluted water,98,120/80,61,Amoxil
+250mg,bacterial infections,Capsule,Depression,98,120/80,62,Azomax
+N/A,bacterial infections,Capsule,Diabetes,98,120/80,63,Ampiclox
+1000mg,Bronchitis,Capsule,Allergy,98,120/80,64,Ezonex
+1000mg,Bronchitis,Capsule,Genetic,98,120/80,65,Zetamax
+5/10mg,Nutritional deficiencies,Capsule,Allergy,98,120/80,66,Perfectil
+500mg,antibiotic,Capsule,Heart attack,98,120/80,67,Contimycin
+400/800mg,bacterial infections,Capsule,Depression,98,120/80,68,Nordox
+250mg,"Vitamin E, Zinc deficiency",Capsule,Polluted water,98,120/80,69,Xtract
+N/A,Nutritional deficiencies,Capsule,Depression,98,120/80,70,Bisleri
+N/A,Vitamin Deficiency,Capsule,Diabetes,98,120/80,71,Seven Seas
+N/A,Vitamin Deficiency,Capsule,Allergy,98,120/80,72,7even Seas
+N/A,Psychosis,Capsule,Genetic,98,120/80,73,Serenace
+1g,Seizures,Capsule,Allergy,98,120/80,74,Devenda
+600mg,hyperphosphatemia,Capsule,Heart attack,98,120/80,75,Renavel
+N/A,Bacterial infections,Capsule,Depression,98,120/80,76,Levenx
+500mg,atrioventricular block,Capsule,Polluted water,98,120/80,77,Saventrine
+N/A,Depression,Capsule,Depression,98,120/80,78,Saffron Capsule
+6ml,Vitamin Deficiency,Capsule,Diabetes,98,120/80,79,Herbo Natural Morman
+N/A,Asthma,Capsule,Allergy,98,120/80,80,AloGel SoftGel
+100mg,Bacterial Infection,Injection,Genetic,98,120/80,81,2Sum
+20mg,Nutritional Supplment,Injection,Allergy,98,120/80,82,Aminovel
+100mg,Heartburn,Injection,Heart attack,98,120/80,83,Zantac
+10mg,Bacterial Infection,Injection,Depression,98,120/80,84,Cephradine
+10mg,Prophylaxis of chickenpox,Injection,Polluted water,98,120/80,85,Varivac
+10mg,Type II Diabetes,Injection,Depression,98,140/90,86,Victoza
+500mg,Vitamin D Deficiency,Injection,Diabetes,98,120/80,87,Vitamin D-3
+100mg,Iron Deficiency,Injection,Allergy,98,120/80,88,Ivefer
+500mg,Bacterial infection,Injection,Genetic,98,120/80,89,Nebcin
+100mg,Skin conditions,Injection,Allergy,98,120/80,90,Hyzonate
+100mg,Pain,Injection,Heart attack,98,120/80,91,Kinz
+100mg,Pain ,Injection,Depression,98,120/80,92,Sonotic
+100mg,Pain ,Injection,Polluted water,98,120/80,93,Verger
+N/A,Bacterial Infections and Hospital Acquired Pneumonia,Injection,Depression,98,120/80,94,Amkay
+200/500,Bacterial Infections and Hospital Acquired Pneumonia,Injection,Diabetes,98,120/80,95,Grasil
+200/500,Bacterial Infections and Hospital Acquired Pneumonia,Injection,Allergy,98,120/80,96,Bakacin
+200/500,Bacterial Infections and Hospital Acquired Pneumonia,Injection,Genetic,98,120/80,97,Mikacin
+50/100,Bacterial Infections and Hospital Acquired Pneumonia,Injection,Allergy,98,120/80,98,Mink
+100,Bacterial Infections and Hospital Acquired Pneumonia,Injection,Heart attack,98,120/80,99,Sefkin
+50/100/250,Bacterial Infections and Hospital Acquired Pneumonia,Injection,Depression,98,120/80,100,Zomacin
